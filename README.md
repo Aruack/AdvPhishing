@@ -31,10 +31,6 @@
 Telegrams 
 * https://t.me/aruackofficial 
 
-Signal Group
-* https://signal.group/#CjQKIJo2kROhQqGixd42Rhrn5xvxnjeuOZTiSzuyTwXnIaYSEhB7VUxzQ26H3q5MU9nQv1_5
-
-
 
 
 ### TECHNIQUE
